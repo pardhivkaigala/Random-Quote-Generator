@@ -71,3 +71,14 @@ Developing this project during the CodeAlpha Internship facilitated deep learnin
 ---
 
 *“ZenQuotes represents a perfect synergy between functional simplicity and visual beauty.”* 🌿
+
+📂 File Structure Available in your Workspace:
+
+
+index.html
+ — Clean semantic HTML markup.
+style.css — Robust styling rules, responsive layout grid, and transition controls.
+script.js — Core functional code and quote storage.
+
+README.md
+ — This complete long-form project description.
